@@ -1,1 +1,1 @@
-Questões do curso do Gustavo Guanabara
+Questões em python do curso do Gustavo Guanabara
